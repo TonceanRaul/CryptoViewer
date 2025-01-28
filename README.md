@@ -1,4 +1,4 @@
-This project showcases a cryptocurrency dashboard, allowing users to explore and track details about cryptocurrencies. The frontend is built with **React**, and the backend, originally in** Node.js**, has been rewritten in **Rust**.
+This project showcases a cryptocurrency dashboard, allowing users to explore and track details about cryptocurrencies. The frontend is built with **React**, and the backend, originally in  **Node.js**, has been rewritten in **Rust**.
 
 **Project Structure**
 
