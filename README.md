@@ -12,21 +12,24 @@ Frontend:
 1. Navigate to the frontend directory.
 2. Run the following commands:
 
-  npm install
-  npm start
+* npm install
+* npm start
 
 Backend
 1. Navigate to the backend directory.
 2. Create a .env file in the backend root directory with the following content:
 RAPIDAPI_KEY=your_rapidapi_key_here
 3. Run the backend:
-  cargo run
+   
+* cargo run
 
 **Notes**
 
-You'll need a RapidAPI Key to make API calls. Add it to the .env file in the backend directory.
+You'll need a RapidAPI Key to make API calls.
+
+Add it to the .env file in the backend directory.
+
 Original frontend and project idea: Adrian Hajdin.
-Backend rewritten in Rust by [Your Name].
 
 **License**
 This project follows the original license from the Cryptoverse repository.
